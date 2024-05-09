@@ -5,9 +5,17 @@
    --online-color: #3ABF38;
    --bg-secondary: #f4f4f4;
    --bg-primary: #FFF;
+
 }
 
 
 *{
   font-family : "Nunito", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
 }
